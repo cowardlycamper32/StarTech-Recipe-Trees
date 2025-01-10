@@ -1,0 +1,30 @@
+PHENOLIC PRINTED CIRCUIT BOARDS
+	TREE:
+		4 Silver Foil + 1 Phenolic Circuit Board + 200mB Sodium Persulfate -> 1 Phenolic Printed Circuit Board
+		7 Sodium Bisulfate Dust -> 500mB Sodium Persulfate + 1B Hydrogen
+		2 salt + 1B sulfuric acid -> 7 Sodium Bisulfate Dust + 1B Hydrochloric acid
+		1B Hydrogen Sulfide + 4B Oxygen -> 1B Sulfuric Acid
+		1 Sulfur + 2B Hydrogen -> 1B Hydrogen Sulfide
+	FOR 1:
+		4 Silver Foil + 1 Phenolic Circuit Board + 200mb Sodium Persulfate -> 1 Phonelic Printed Circuit Board
+		7 (2.8) Sodium Bisulfate Dust -> 500mB (200mB) Sodium Persulfate + 1B (400mB) Hydrogen
+		7 (0.8) Salt + 1B (400mB) Sulfuric Acid -> 7 (2.8) Sodium Bisulfate Dust + 1B (400mB) Hydrochoric Acid
+		1B (400mB) Hydrogen Sulfide + 4B (1.6B) Oxygen -> 1B (400) Sulfuric Acid
+		1 (0.4) Sulfur + 2B (800mB) Hydrogen -> 1B (400mB) Hydrogen Sulfide
+		TOTALS:
+			0.4 Sulfur
+			800mB Hydrogen
+			0.8 Salt
+			1.6B Oxygen
+	FOR FULL CLEAN BATCH:
+		4 Silver Foil + 1 Phenolic Circuit Board + 200mB Sodium Persulfate -> 1 Phonelic Printed Circuit Board
+		7 (14) Sodium Bisulfate Dust -> 500mB (1B) Sodium Persulfate + 1B (2B) Hydrogen
+		7 (14) Salt + 1B (2B) Sulfuric Acid -> 7 (14) Sodium Bisulfate + 1B (2B) Hydrochloric Acid
+		1B Hydrogen Sulfide (2B) + 4B (8B) Oxygen -> 1B (2B) Sulfuric Acid
+		1 (2) Sulfur + 2B (4B) Hydrogen -> 1B (2B) Hydrogen Sulfide
+		TOTALS
+			2 Sulfur
+			4B Hydrogen Gas
+			8B Oxygen
+			14 Salt
+			
