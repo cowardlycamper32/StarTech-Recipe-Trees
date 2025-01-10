@@ -17,7 +17,7 @@ PHENOLIC PRINTED CIRCUIT BOARDS
 			0.8 Salt
 			1.6B Oxygen
 	FOR FULL CLEAN BATCH:
-		4 Silver Foil + 1 Phenolic Circuit Board + 200mB Sodium Persulfate -> 1 Phonelic Printed Circuit Board
+		4 (20) Silver Foil + 1 (5) Phenolic Circuit Board + 200mB (1B) Sodium Persulfate -> 1 (5) Phonelic Printed Circuit Board
 		7 (14) Sodium Bisulfate Dust -> 500mB (1B) Sodium Persulfate + 1B (2B) Hydrogen
 		7 (14) Salt + 1B (2B) Sulfuric Acid -> 7 (14) Sodium Bisulfate + 1B (2B) Hydrochloric Acid
 		1B Hydrogen Sulfide (2B) + 4B (8B) Oxygen -> 1B (2B) Sulfuric Acid
