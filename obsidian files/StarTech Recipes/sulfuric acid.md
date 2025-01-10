@@ -1,0 +1,1 @@
+1B [[Hydrogen Sulfide]] + 4B [[Oxygen]] -> 1B Sulfuric Acid

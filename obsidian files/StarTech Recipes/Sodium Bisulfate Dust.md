@@ -1,0 +1,1 @@
+2 [[salt]] + 1B [[sulfuric acid]] -> 7 Sodium Bisulfate Dust + 1B Hydrochloric acid

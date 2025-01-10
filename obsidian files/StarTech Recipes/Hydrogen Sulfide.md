@@ -1,0 +1,1 @@
+1 [[Sulfur]] + 2B [[Hydrogen]] -> 1B Hydrogen Sulfide

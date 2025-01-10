@@ -1,0 +1,1 @@
+7 [[Sodium Bisulfate Dust]] -> 500mB Sodium Persulfate + 1B Hydrogen

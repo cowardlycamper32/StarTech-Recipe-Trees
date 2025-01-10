@@ -1,0 +1,1 @@
+4 [[Silver Foil]] + 1 [[Phenolic Circuit Board]] + 200mB [[Sodium Persulfate]] -> 1 Phenolic Printed Circuit Board
